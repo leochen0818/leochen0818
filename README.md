@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A attentive, conscientious, energetic, friendly frontend developer from Taiwan</h3>
 
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leochen0818" alt="leochen0818" /> </p>
+-->
 
 - 🔭 I’m currently working on **Perkd Taiwan**
 
