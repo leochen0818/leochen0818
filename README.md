@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leochen0818" alt="leochen0818" /> </p>
 -->
 
-- 🔭 I’m currently working on **Perkd Taiwan**
+- 🔭 I’m currently working on **Lilee Systems**
 
 <!--
 <p align="left"><img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="20" height="20"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="20" height="20"/></p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=leochen0818&show_icons=true" alt="leochen0818" /> </p>
